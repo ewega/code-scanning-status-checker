@@ -13,7 +13,7 @@ This is a very simple Action that will act as a substitute required status check
 
 ## Why?
 
-If you want more details as to why this workaround exists see [here](https://eldrick19.github.io/site/github/tutorial/2023/12/04/enabling-ghas-merge-queue/). 
+If you want more details as to why this workaround exists see [here](https://ewega.github.io/site/github/tutorial/2023/12/04/enabling-ghas-merge-queue/). 
 
 ## How does it work?
 
